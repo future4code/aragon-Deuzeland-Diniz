@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+
+.header {
+    background-color: lightblue;
+    height: 80px;
+}
+
+.menu {
+    margin: 10px 0;
+}
+
+.menu a {
+    color: #353b45;
+    border: 1 px solid #353b45
+    Padding: 5px
+    margin: 10px
+}
+
+#selected {
+    color : coral;
+    border: 2px solid coral
+}
+
+
+.menu a {
+    color: #353b45;
+    border: 1px solid  #353b45;
+    padding: 5px;
+    margin: 10px
+}
+
+#selected {
+    color: coral;
+    border:2px solid coral
+}
+
+a{
+    text-decoration:none;
+}
+
+#profile-picture{
+    height: 300px
+}
+
+.footer {
+    background-color: lightblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer a {
+    color: #353b45
+}
